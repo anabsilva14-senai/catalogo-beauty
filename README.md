@@ -8,12 +8,12 @@ O projeto simula a estrutura de um sistema de e-commerce voltado para o segmento
 Estrutura do Projeto
 
 beauty1/
-├── componentes/   Componentes reutilizáveis da interface
-├── paginas/       Páginas principais da aplicação
-├── servicos/      Lógica e dados da aplicação
-├── estilos/       Arquivos CSS de estilização
-├── assets/        Imagens e recursos estáticos
-├── dados/         Dados estáticos (produtos, promoções, contato)
+componentes/   Componentes reutilizáveis da interface.
+paginas/       Páginas principais da aplicação.
+servicos/      Lógica e dados da aplicação.
+estilos/       Arquivos CSS de estilização.
+assets/        Imagens e recursos estáticos.
+dados/         Dados estáticos (produtos, promoções, contato).
 
 Módulos do sistema :
 
